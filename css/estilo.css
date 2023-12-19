@@ -1,0 +1,31 @@
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-right: 10px;
+  }
+
+.cor{
+    background-color: #051D40;
+}
+
+.m{
+    margin-top: 10px;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
+  
+
+@media (max-width: 450px) {
+    .respt {
+      font-size: 1.5em; /* 50% menor que o tamanho padrão */
+    }
+    .resp{
+      font-size: 1em;
+    }
+    .resp2{
+        font-size: 0.7em;
+    }
+}
