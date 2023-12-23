@@ -24,7 +24,7 @@
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#saiba">Sobre Nós</a></li>
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#noticias">Notícias</a></li>
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#fiscalize">Fiscalize!</a></li>
-                        <li class="nav-item"><a class="nav-link me-lg-3" href="https://gremiotimoteo.online/">Registro de Armário</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3" href="http://registroarmario.gremiotimoteo.online/">Registro de Armário</a></li>
                     </ul>
                     <!--
                     <button class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" data-bs-target="#feedbackModal">
@@ -77,11 +77,11 @@
                       echo '<div class="col-md-4">
                       <div class="card mb-4 shadow-sm">
                         <div class="card-body">
-                          <h5 class="card-title">'.$registro['titulo'].'</h5>
+                          <h5 class="card-title text-center">'.$registro['titulo'].'</h5>
                           <p class="card-text text-muted">'.$registro['subtitulo'].'</p>
                           <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
-                              <a href="http://localhost/Site-Gremio/noticia.php?codigo='.$registro['codigo'].'" class="btn btn-sm btn-outline-secondary">Ver</a>
+                              <a href="http://gremiotimoteo.online/noticia.php?codigo='.$registro['codigo'].'" class="btn btn-sm btn-outline-secondary">Ver</a>
                             </div>
                             <small class="text-muted">'.$registro['dataHorario'].'</small>
                           </div>

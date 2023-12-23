@@ -51,7 +51,7 @@
                         <p class="lead fw-normal text-muted resp2 mb-0">Diretora de Projetos: Isabel de Andrade Martins</p>
                         <p class="lead fw-normal text-muted resp2 mb-0">Diretoria de Comunicação: Ana Laura Valeriano de Paula  e Henrique Lelis Costa</p>
                         <p class="lead fw-normal text-muted resp2 mb-0">Diretora de Sociedade e Sustentabilidade: Ana Laura Silva Gonçalves</p>
-                        <p class="lead fw-normal text-muted resp2 mb-0">Diretoria de Políticas do Noturno</p>    
+                        <p class="lead fw-normal text-muted resp2 mb-0">Diretoria de Políticas do Noturno: Isabelle Karoline Alberici Silva, Victor Gabriel Oliveira Vilela Dourado Figueiredo e Mateus Henrique Martins Silva Clara</p>    
                     </div>
                     <div class="mb-4 justify-content-left">
                     <p class="lead fw-normal text-muted resp">Estamos à disposição no e-mail: gremioestudantil.renova2023@gmail.com</p>
