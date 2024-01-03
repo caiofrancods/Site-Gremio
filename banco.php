@@ -5,7 +5,7 @@
         $conexao = null;
         try{	        
             //Local
-            $conexao = new PDO('mysql:host=localhost; dbname=GremioGerencia', 'root', '');
+            //$conexao = new PDO('mysql:host=localhost; dbname='', '', '');
             $conexao->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
             $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             $conexao->exec("SET NAMES 'utf8mb4'");
